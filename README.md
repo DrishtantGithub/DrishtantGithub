@@ -1,3 +1,4 @@
+![github-header-image](https://github.com/DrishtantGithub/DrishtantGithub/assets/61622624/b8bde90e-58c4-4f6a-a4d2-c06e7a1292b4)
 ### Hi there 👋
 
 <!--
@@ -13,7 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->![github-header-image](https://github.com/DrishtantGithub/DrishtantGithub/assets/61622624/b8bde90e-58c4-4f6a-a4d2-c06e7a1292b4)
+-->
 
 
 I'm Drishtant Jain, an aspiring Machine Learning and Data Science professional with a background in Electronics and Telecommunication Engineering. I'm currently pursuing a degree in Machine Learning, Data Science, and Sustainability at IIT Hyderabad.
