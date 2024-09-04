@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-I'm Drishtant Jain, an aspiring Machine Learning and Data Science professional with a background in Electronics and Telecommunication Engineering. I'm currently pursuing a degree in Machine Learning, Data Science, and Sustainability at IIT Hyderabad.
+I'm Drishtant Jain, an aspiring Machine Learning and Data Science professional with a background in Electronics and Telecommunication Engineering. I'm currently pursuing a degree in Control and Computing with a focus on Machine Learning at IIT Bombay.
 
 **⚡ My Interests:**
 - Electronics Engineering
