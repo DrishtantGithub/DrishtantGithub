@@ -1,47 +1,126 @@
 ![github-header-image](https://github.com/DrishtantGithub/DrishtantGithub/assets/61622624/b8bde90e-58c4-4f6a-a4d2-c06e7a1292b4)
-### Hi there 👋
 
-<!--
-**DrishtantGithub/DrishtantGithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋 I'm Drishtant Jain
 
-Here are some ideas to get you started:
+🎓 M.Tech Electrical Engineering (Control & Computing) — **IIT Bombay**  
+🏅 **Reliance Foundation Postgraduate Scholar**  
+🔬 Researcher in **Machine Learning, Signal Processing, and Energy Systems**  
+💻 Former **Analyst at Deloitte USI**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
+## 🚀 About Me
 
-I'm Drishtant Jain, an aspiring Machine Learning and Data Science professional with a background in Electronics and Telecommunication Engineering. I'm currently pursuing a degree in Control and Computing with a focus on Machine Learning at IIT Bombay.
+I am an Electrical Engineer and Machine Learning researcher currently pursuing my **M.Tech at IIT Bombay**.  
 
-**⚡ My Interests:**
-- Electronics Engineering
+My work lies at the intersection of:
+
 - Machine Learning
-- Finance
-- Technology
-- Sustainability
+- Signal Processing
+- Renewable Energy Forecasting
+- Optimization & Control Systems
 
-**🔭 Technologies I've Worked With:**
+Previously, I worked as a **Research Intern at IIT Hyderabad**, where I developed deep learning models for **solar energy forecasting using explainable AI techniques**.
+
+I enjoy building technically rigorous systems, exploring research ideas, and contributing to impactful technological solutions.
+
+---
+
+## 🔬 Research Interests
+
+- Machine Learning & Deep Learning
+- Signal Processing
+- Renewable Energy Forecasting
+- Explainable AI
+- Optimization & Control Systems
+
+---
+
+## 📄 Publications
+
+**Enhancing Solar Energy Forecasting: 1D CNN with Explainable AI Techniques**  
+Accepted at **INGARSS 2024**
+
+Key Contributions:
+
+- Developed a **1D CNN with Residual Inception and SE blocks**
+- Achieved **6.56% lower MAE** than the top model in the AMS Solar Energy Prediction Contest
+- Applied **Integrated Gradients and Permutation Feature Importance** for explainability
+
+---
+
+## 💼 Experience
+
+### 🧠 Research Intern — IIT Hyderabad
+Worked on solar energy prediction using deep learning models and explainable AI.
+
+### 🏢 Analyst — Deloitte USI
+Worked on:
+
+- Functional testing
+- Automation testing using **Java + Selenium**
+- Agile software development workflows
+
+### 🎓 Teaching Assistant — IIT Bombay
+
+Courses assisted:
+
+- Nonlinear Dynamical Systems
+- Digital Signal Processing
+- Control Systems Lab
+- Makerspace Lab
+
+Supported **100+ students** through tutorials, labs, and evaluation.
+
+---
+
+## 🛠 Tech Stack
+
+**Programming**
+
+- Python
 - Java
+- JavaScript
+
+**Web**
+
 - HTML
 - CSS
-- JavaScript
-- Python
 
-**🌱 What I'm Currently Learning:**
-- Software Development
-- Open Source Contribution
+**Machine Learning**
 
-**📚 Other Interests:**
-- Playing Chess
-- Reading Books
+- PyTorch
+- TensorFlow
+- Scikit-learn
 
-**📫 How to Reach Me:**
-- LinkedIn: [www.linkedin.com/in/drishtantjain]
+**Other Tools**
 
-I'm always excited to learn new things, collaborate on interesting projects, and contribute to the open-source community. Feel free to explore my repositories and don't hesitate to connect!
+- Git & GitHub
+- MATLAB
+- Selenium
+
+---
+
+## 📊 GitHub Stats
+
+![Drishtant's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrishtantGithub&show_icons=true&theme=default)
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Machine Learning
+- Deep Learning Architectures
+- Research in AI and Energy Systems
+- Open Source Collaboration
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn  
+https://www.linkedin.com/in/drishtant-jain
+
+---
+
+⭐ *Always open to collaboration in Machine Learning, Signal Processing, and AI research.*
